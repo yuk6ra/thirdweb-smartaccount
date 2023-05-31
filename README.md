@@ -1,3 +1,12 @@
+# Smartaccount by thirdweb
+
+![](https://github.com/yuk6ra/thirdweb-smartaccount/assets/59524938/7f84013b-f4d2-400f-96b3-0fc4bcf47427)
+
+## References
+- Simple Wallet Factory (beta): https://thirdweb.com/thirdweb.eth/AccountFactory
+
+---
+
 ## Getting Started
 
 Create a project using this example:
