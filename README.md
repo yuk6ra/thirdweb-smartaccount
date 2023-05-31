@@ -1,6 +1,6 @@
 # Smartaccount by thirdweb
 
-![](https://github.com/yuk6ra/thirdweb-smartaccount/assets/59524938/7f84013b-f4d2-400f-96b3-0fc4bcf47427)
+![Group 100](https://github.com/yuk6ra/thirdweb-smartaccount/assets/59524938/a214bb09-de36-43f6-9de9-b6a3f3d8d135)
 
 ## Demo Video
 - https://youtu.be/mkE0v5Z9WCk
