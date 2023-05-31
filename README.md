@@ -2,6 +2,9 @@
 
 ![](https://github.com/yuk6ra/thirdweb-smartaccount/assets/59524938/7f84013b-f4d2-400f-96b3-0fc4bcf47427)
 
+## Demo Video
+- https://youtu.be/mkE0v5Z9WCk
+
 ## References
 - Simple Wallet Factory (beta): https://thirdweb.com/thirdweb.eth/AccountFactory
 
