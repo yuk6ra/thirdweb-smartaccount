@@ -5,6 +5,10 @@
 ## Demo Video
 - https://youtu.be/mkE0v5Z9WCk
 
+## Contract
+- Sample NFT: 0xDA4dc54472573B0193394d6214DCD767Bd295241 
+- Smart Account Factory: 0x640b17bD959c3528aF1dB7a1E70233e8E7E5327F
+
 ## References
 - Simple Wallet Factory (beta): https://thirdweb.com/thirdweb.eth/AccountFactory
 
